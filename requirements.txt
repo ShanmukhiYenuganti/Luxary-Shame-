@@ -1,0 +1,12 @@
+
+Flask
+google-generativeai
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+python-dotenv
